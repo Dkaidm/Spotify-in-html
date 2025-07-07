@@ -1,4 +1,7 @@
 # Spotify-in-html
+
+[![Deploy to Replit!](https://yt3.googleusercontent.com/ytc/AIdro_kSrqK1IUyvh5VLOLOwS6ftTocFvaAAkrdeusZBKGhOiB8=s900-c-k-c0x00ffffff-no-rj)](https://replit.com/@dylanpapaw/Spotify-Cracked-but-in-html?v=1)
+
 "Spotify in html" Is a sleek, minimalist music playing web app designed entirely using HTML and CSS, offering a endless listening experience without the interruption of ads.
 
 🎶 Ad-Free Listening: Enjoy your favorite tracks without any commercial interruptions.
