@@ -1,0 +1,13 @@
+.WhatDis {
+   transform: scale(1);
+  background-color: 540075; 
+  color: #0c6600;
+  border: 1.5px solid #a9feab;
+}
+
+.WhatDis:hover {
+   transform: scale(1.10);
+  background-color: #a2ff80;
+  transition-duration: 0.4s;
+  color: #3ba800;
+}

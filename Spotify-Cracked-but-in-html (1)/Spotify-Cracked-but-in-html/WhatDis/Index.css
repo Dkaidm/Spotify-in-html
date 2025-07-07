@@ -1,0 +1,22 @@
+
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #279400;
+        color: #ffffff;
+        margin: 0;
+        padding: 20px;
+        padding-left: 110px;
+    }
+    h1 {
+        font-size: 2.5em;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .features {
+        list-style-type: none;
+        padding: 0;
+    }
+    .features li {
+        font-size: 1.2em;
+        margin: 10px 0;
+    }
